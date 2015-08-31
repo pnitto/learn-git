@@ -1,0 +1,2 @@
+username: coolguy
+password: coolpassword
